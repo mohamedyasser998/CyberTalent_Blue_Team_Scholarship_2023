@@ -1,7 +1,5 @@
 # CyberTalent_Blue_Team_Scholarship_2023
-Writeups for the CTFs in the cybertalents blue team scholarship
-
-Link to internship: https://cybertalents.com/learn/cybertalents-blue-team-scholarship-2023
+This repository contains solutions to the Capture the Flag (CTF) challenges I encountered during my internship at CyberTalents.
 
 Internship contains two units:
 
