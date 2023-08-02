@@ -1,3 +1,7 @@
+## Challenge Description
+![image](https://github.com/mohamedyasser998/CyberTalent_Blue_Team_Scholarship_2023/assets/57010124/feaab743-db39-4c8a-a935-7c0610d69be1)
+
+## Challenge Solution
 ### 1- Multiple RSYNC packets are sent from the local machine 192.168.1.80 to 34.140.248.32 (Malicious) According to VirusTotal.
 ![image](https://github.com/mohamedyasser998/CyberTalent_Blue_Team_Scholarship_2023/assets/57010124/966cb39b-52f5-439a-9203-6486729876bc)![image](https://github.com/mohamedyasser998/CyberTalent_Blue_Team_Scholarship_2023/assets/57010124/86961f24-0702-429f-b741-a74aa4d0d976)
 ![image](https://github.com/mohamedyasser998/CyberTalent_Blue_Team_Scholarship_2023/assets/57010124/d2a2890e-dd8f-45a3-8631-c412f2a54037)
