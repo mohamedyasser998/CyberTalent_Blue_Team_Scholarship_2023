@@ -8,22 +8,19 @@ Internship contains two units:
 2- Threat Hunter
 
 ## Challenges in SOC Analyst unit
-### 1. [competition](./competition)
-### 2. [CVE Number](./CVE_Number)
-### 3. [Smart Role](./Smart_Role)
-### 4. [Backdoor](./Backdoor)
-### 5. [Creepy DNS](./Creepy_DNS)
-### 6. [WormSeen](./WormSeen)
-### 7. [bean](./bean)
-### 8. [Beans Detector](./Beans_Detector)
-### 9. [Pass reset](./Pass_reset)
-### 10. [SIEM Port](./SIEM_Port)
-### 11. [Remote Hacker](./Remote_Hacker)
-### 12. [FourOFour](./FourOFour)
-### 13. [55h Access](./55h_Access)
-### 14. [USB Case](./USB_Case)
-### 15. [MEGO](./MEGO)
-### 16. [Phisher](./Phisher)
+### 1. [Backdoor](./Backdoor)
+### 2. [Creepy DNS](./Creepy_DNS)
+### 3. [WormSeen](./WormSeen)
+### 4. [bean](./bean)
+### 5. [Beans Detector](./Beans_Detector)
+### 6. [Pass reset](./Pass_reset)
+### 7. [SIEM Port](./SIEM_Port)
+### 8. [Remote Hacker](./Remote_Hacker)
+### 9. [FourOFour](./FourOFour)
+### 10. [55h Access](./55h_Access)
+### 11. [USB Case](./USB_Case)
+### 12. [MEGO](./MEGO)
+### 13. [Phisher](./Phisher)
 
 
 ## Challenger in Threat Hunter unit
